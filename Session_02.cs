@@ -1,8 +1,8 @@
 ﻿namespace NguyenVuThanhGiang_31231026898
 {
-    internal class NguyenVuThanhGiang_31231026898
+    internal class Session_02
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             Question_01();
             Question_02();
