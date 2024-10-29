@@ -8,7 +8,7 @@ namespace NguyenVuThanhGiang_31231026898
 {
     internal class Session_03
     {
-        public static void Main(string[] args)
+        public static void Main2(string[] args)
         {
             Exercise_01();
             Exercise_02();
