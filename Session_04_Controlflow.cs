@@ -11,7 +11,7 @@ namespace NguyenVuThanhGiang_31231026898
 {
     internal class Session_04_Controlflow
     {
-        public static void Main(string[] args)
+        public static void Main4(string[] args)
         { 
             Exercise_01();
             Exercise_02();
