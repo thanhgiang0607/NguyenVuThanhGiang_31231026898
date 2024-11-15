@@ -9,7 +9,7 @@ namespace NguyenVuThanhGiang_31231026898
 {
     public class Session_05
     {
-        public static void Main(string[] args)
+        public static void Main5(string[] args)
         {
             Exercise_01a();
             Exercise_01b();
